@@ -20,7 +20,7 @@ The games we support can be found [**Here**](https://github.com/asktrik/Invision
 
 This list will gradually get longer and we will support more games
 
-## 🔗・Support
+## ✅・Support
 The executors we support are:
 
 - 💪・AWP.GG
@@ -28,3 +28,6 @@ The executors we support are:
 - 🔮・Solara
   
 Other executors are unknown at this time
+
+## 🔗・Credits
+[Fluent UI Library](https://github.com/dawid-scripts/Fluent)
