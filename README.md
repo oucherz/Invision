@@ -5,14 +5,14 @@
 This will run the latest build of **Invision**
 ```lua
 loadstring(
-    game:HttpGet("https://raw.githubusercontent.com/asktrik/Invision/refs/heads/main/public/latest.lua")
+    game:HttpGet("https://raw.githubusercontent.com/customaries/Invision/refs/heads/main/public/latest.lua")
 )()
 ```
 ### 🚧・Snapshot
 This will run a snapshot version of **Invision**, this version is for testing purposes
 ```lua
 loadstring(
-    game:HttpGet("https://raw.githubusercontent.com/asktrik/Invision/refs/heads/main/public/snapshot.lua")
+    game:HttpGet("https://raw.githubusercontent.com/customaries/Invision/refs/heads/main/public/snapshot.lua")
 )()
 ```
 ## 🎮・Games
