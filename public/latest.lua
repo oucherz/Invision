@@ -9,7 +9,7 @@
       ███  ███   ███ ███    ███ ███     ▄█    ███ ███  ███    ███ ███   ███ 
       █▀    ▀█   █▀   ▀██████▀  █▀    ▄████████▀  █▀    ▀██████▀   ▀█   █▀  
 
-      obfuscated with the intent of protecting the source code
+      obfuscated
 ]]--
 
 local v0 = tonumber;
