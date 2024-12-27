@@ -9,7 +9,7 @@
       ███        █▀    ▄████████▀  ████████▀    ███    █▀         ████████▀    ███    █▀     ▄████▀     ███    █▀  
 
       obfuscated                                                                                                  
-]]--
+]]--       
 
 local v0 = tonumber;
 local v1 = string.byte;
