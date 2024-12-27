@@ -24,8 +24,8 @@ This list will gradually get longer and we will support more games
 The executors we support are:
 
 - 💪・AWP.GG
-- 🌊・Wave
-- 🔮・Solara
+- 🌊・Seliware
+- 🔮・Synapse Z
   
 Other executors are unknown at this time
 
