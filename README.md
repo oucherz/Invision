@@ -1,5 +1,6 @@
 <h1 align="center">👁️・Invision</h1>
 <div align="center">A <b>free</b> and <b>powerful</b> ROBLOX script-hub!</div>
+<div align="center">Development is slow as I am the only one working on it!</div>
 
 ## 📌・Releases
 This will run the latest build of **Invision**
